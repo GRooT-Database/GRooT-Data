@@ -9,9 +9,9 @@ GRooT includes 38 root traits, 38,276 species-by-site mean values based on 114,2
 
 GRooTFullVersion.csv: Root trait data at the highest resolution available, information to filter data by entities, meta-data, and error risk scores
 
-GRooTAggregateSpeciesVersion.csv: Mean, median, and quantiles of species values
+GRooTAggregateSpeciesVersion.csv: Root trait species values
 
-R script: code to calculate error risk, mean, median and quantiles of species values. Customizable (by error risk, entities or covariables)
+R script: code to calculate error risk and species values. Customizable (by error risk, entities or covariables)
 
 
 <h4>Data are publicly available but should be referenced by citing the corresponding data paper:</h4>
