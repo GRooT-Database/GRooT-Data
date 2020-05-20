@@ -16,7 +16,8 @@ R script: code to calculate error risk and species values. Customizable (by erro
 
 <h4>Data are publicly available but should be referenced by citing the corresponding data paper:</h4>
 
-Guerrero-Ramirez N, Mommer L, Freschet GT, Iversen CM, McCormack M.L, Kattge J, Poorter H, van der Plas F, Bergmann J, Kuyper TW, York LM, Bruelheide H, Laughlin DC, Meier IC, Roumet C, Semchenko M, Sweeney CJ, van Ruijven J, Valverde-Barrantes OJ, Aubin I, Catford JA, Manning P, Martin A, Milla R, Minden V, Pausas JG, Smith SW, Soudzilovskaia NA, Ammer C, Butterfield B, Craine J, Cornelissen JHC, de Vries FT, Isaac ME, Kramer K, König C, Lamb EG, Onipchenko VG, Peñuelas J, Reich PB, Rillig MC, Sack L, Shipley B, Tedersoo L, Valladares F, van Bodegom P, Weigelt P, Wright JP, Weigelt A. 2020. Global Root Traits (GRooT) Database. BioRxiv. doi: https://doi.org/10.1101/2020.05.17.095851 
+Guerrero-Ramirez N, Mommer L, Freschet GT, Iversen CM, McCormack M.L, Kattge J, Poorter H, van der Plas F, Bergmann J, Kuyper TW, York LM, Bruelheide H, Laughlin DC, Meier IC, Roumet C, Semchenko M, Sweeney CJ, van Ruijven J, Valverde-Barrantes OJ, Aubin I, Catford JA, Manning P, Martin A, Milla R, Minden V, Pausas JG, Smith SW, Soudzilovskaia NA, Ammer C, Butterfield B, Craine J, Cornelissen JHC, de Vries FT, Isaac ME, Kramer K, König C, Lamb EG, Onipchenko VG, Peñuelas J, Reich PB, Rillig MC, Sack L, Shipley B, Tedersoo L, Valladares F, van Bodegom P, Weigelt P, Wright JP, Weigelt A. 2020. Global Root Traits (GRooT) Database. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.17.095851v1). doi:10.1101/2020.05.17.095851  
+
 
 We suggest citing the original data sources whose contributed a substantial proportion to the analysis. Also, we encourage to contact and collaborate with data contributors.
 
